@@ -17,7 +17,7 @@ downloads/
 eggs/
 .eggs/
 lib/
-!consumer_frontend/src/lib/
+!src/lib/
 lib64/
 parts/
 sdist/
@@ -151,7 +151,6 @@ activemq-data/
 *.sage.py
 
 # Environments
-.env
 .envrc
 .venv
 env/
